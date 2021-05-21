@@ -1,5 +1,9 @@
 # TP Integrador
 
+## El enunciado
+
+https://docs.google.com/document/d/1ylFqJUVLWK8Vu-DkkdYnOi_FuLulKhPnmprVPRsa6us/edit?usp=sharing
+
 ## Tareas
 
 - [ ] Aceptar el assignment y clonar el repositorio con el ejercicio
@@ -50,10 +54,6 @@ stack test
 ```
 
 También pueden usar ghcid para correr los tests automáticamente como se explica [acá](https://github.com/pdepviernestm/2021-clases/blob/main/clase-02/correrTestsMasRapidoConGhcid.md).
-
-## El enunciado
-
-https://docs.google.com/document/d/1ylFqJUVLWK8Vu-DkkdYnOi_FuLulKhPnmprVPRsa6us/edit?usp=sharing
 
 ## Que hacer cuando terminan el TP
 
